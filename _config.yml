@@ -1,6 +1,5 @@
-baseurl: "/zolan" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: ""   # 网站在根目录
+url: "https://chenxinyi-l.github.io"  # 基础 URL
 
 # Build settings
 markdown: kramdown
