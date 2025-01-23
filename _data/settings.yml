@@ -1,38 +1,44 @@
 #-------------------------------
 # General Site Settings
-title: xinyi CHEN
-logo: my_logo.svg  # 更换为你自己的 logo 文件
-description: 欢迎来到我的个人网站
+title: Zolan
+logo: logo.svg # You can add own logo.
+description: Zolan is modern minimal theme for Jekyll
+
 
 #-------------------------------
 # Author Settings
 author:
-  name: Chen Xinyi
-  image: chenxinyi.jpg  # 头像文件
-  say-hello: 你好，我是 <strong>陈信怡</strong>
-  bio: 我是一名人机交互设计师，热衷于编程和设计，喜欢分享编程教程和生活点滴。
+  name: Alex Rodriguez
+  image: 01.jpg
+  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
+  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+
 
 #-------------------------------
 # Contact links
-#twitter: https://twitter.com/chenxinyi #  Twitter 账号链接
-#facebook: https://facebook.com/chenxinyi # Facebook 账号链接
-#dribbble: https://dribbble.com/chenxinyi # Dribbble 账号链接
-#instagram: https://instagram.com/chenxinyi  Instagram 账号链接
-#pinterest: https://pinterest.com/chenxinyi # Pinterest 账号链接
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: chenxinyi-blog #  Disqus shortname
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
 
 #-------------------------------
 # Instagram Feed
-instafeed: true  # 启用 Instagram Feed
-instagram-profile: chenxinyi # Instagram 用户名
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-12345678-1  # Google Analytics 跟踪 ID
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
 
 #-------------------------------
 # Newsletter
-mailchimp: blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
