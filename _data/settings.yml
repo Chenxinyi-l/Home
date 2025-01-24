@@ -2,7 +2,7 @@
 # General Site Settings
 title: CHEN Xinyi 
 logo: my_logo.svg  # logo 文件
-description:Welcome to my portfolio!
+description: Welcome to my portfolio!
 
 #-------------------------------
 # Author Settings
@@ -10,9 +10,8 @@ author:
   name: CHEN Xinyi
   image: chenxinyi.jpg  # 更换为你的头像文件
   say-hello:  <strong>Welcome to my portfolio!</strong>
-  bio: I’m a passionate <strong>HCI er & Interactive Designer</strong>, focused on blending creati
-  vity with technology to create visually impactful and interactive web experienc
-  es. Feel free to explore my work, and don’t hesitate to reach out for collaborations or inquiries!
+  bio: |
+    I’m a passionate <strong>HCI er & Interactive Designer</strong>, focused on blending creativity with technology to create visually impactful and interactive web experiences. Feel free to explore my work, and don’t hesitate to reach out for collaborations or inquiries!
 
 #-------------------------------
 # Contact links
@@ -20,11 +19,11 @@ twitter: https://twitter.com/chenxinyi # 我的 Twitter 账号链接
 facebook: https://facebook.com/chenxinyi # 我的 Facebook 账号链接
 dribbble: https://dribbble.com/chenxinyi # 我的 Dribbble 账号链接
 instagram: https://instagram.com/chenxinyi # 我的 Instagram 账号链接
-pinterest: https://pinterest.com/chenxinyi # 我的Pinterest 账号链接
+pinterest: https://pinterest.com/chenxinyi # 我的 Pinterest 账号链接
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: chenxinyi-blog # 我的Disqus shortname
+disqus-identifier: chenxinyi-blog # 我的 Disqus shortname
 
 #-------------------------------
 # Instagram Feed
