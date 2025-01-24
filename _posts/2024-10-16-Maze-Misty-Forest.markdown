@@ -3,7 +3,7 @@ layout: post
 title:  Misty Forest 交互式迷宫-网页游戏 
 date:   2024-10-16 15:01:35 +0300
 image:  maze_background.png
-tags:   Home
+tags:  Web
 ---
 ## Misty Forest 交互式迷宫-网页游戏 
 Misty Forest 是一款基于 JavaFX 开发的网页游戏，玩家需要在视野受限的迷宫中找到宝箱，收集星星并躲避幽灵的追击。
