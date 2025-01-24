@@ -1,38 +1,38 @@
 #-------------------------------
 # General Site Settings
-title:  Xinyi CHEN
-logo: logo.svg  # logo 文件
+title: Xinyi CHEN
+logo: logo.svg  # logo file
 description: Welcome to my portfolio!
 
 #-------------------------------
 # Author Settings
 author:
   name: CHEN Xinyi
-  image: touxiang.png # 更换为你的头像文件
-  say-hello:  <strong>Welcome to my portfolio!</strong>
+  image: touxiang.png # replace with your profile image
+  say-hello: <strong>Welcome to my portfolio!</strong>
   bio: |
     I’m a passionate <strong>HCI er & Interactive Designer</strong>, focused on blending creativity with technology to create visually impactful and interactive web experiences. Feel free to explore my work, and don’t hesitate to reach out for collaborations or inquiries!
 
 #-------------------------------
 # Contact links
-#twitter: https://twitter.com/chenxinyi # 我的 Twitter 账号链接
-#facebook: https://facebook.com/chenxinyi # 我的 Facebook 账号链接
-#dribbble: https://dribbble.com/chenxinyi # 我的 Dribbble 账号链接
-#instagram: https://instagram.com/chenxinyi # 我的 Instagram 账号链接
-#pinterest: https://pinterest.com/chenxinyi # 我的 Pinterest 账号链接
+twitter: https://twitter.com/chenxinyi # Your Twitter account link
+facebook: https://facebook.com/chenxinyi # Your Facebook account link
+dribbble: https://dribbble.com/chenxinyi # Your Dribbble account link
+instagram: https://instagram.com/chenxinyi # Your Instagram account link
+pinterest: https://pinterest.com/chenxinyi # Your Pinterest account link
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: chenxinyi-blog # 我的 Disqus shortname
+disqus-identifier: chenxinyi-blog # Your Disqus shortname
 
 #-------------------------------
 # Instagram Feed
-instafeed: true  # 启用 Instagram Feed
-#instagram-profile: chenxinyi # 我的 Instagram 用户名
+instafeed: true  # Enable Instagram Feed
+instagram-profile: chenxinyi # Your Instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-12345678-1  # 我的 Google Analytics 跟踪 ID
+google-analytics: UA-12345678-1  # Your Google Analytics tracking ID
 
 #-------------------------------
 # Newsletter
