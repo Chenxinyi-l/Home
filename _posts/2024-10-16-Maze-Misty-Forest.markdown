@@ -13,5 +13,5 @@ Misty Forest 是一款基于 JavaFX 开发的网页游戏，玩家需要在视�
 ·胜负条件：成功收集三颗星星即获得胜利；若被幽灵多次追击导致生命值耗尽，则游戏失败。
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%;">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883507332158&bvid=BV1RDfpYVE26&cid=28056944934&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="560" height="315"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883507332158&bvid=BV1RDfpYVE26&cid=28056944934&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="1280" height="560"></iframe>
 </div>
