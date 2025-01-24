@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 title: CHEN Xinyi 
-logo: my_logo.svg  # logo 文件
+logo: logo.svg  # logo 文件
 description: Welcome to my portfolio!
 
 #-------------------------------
 # Author Settings
 author:
   name: CHEN Xinyi
-  image: chenxinyi.jpg  # 更换为你的头像文件
+  image: touxiang.png # 更换为你的头像文件
   say-hello:  <strong>Welcome to my portfolio!</strong>
   bio: |
     I’m a passionate <strong>HCI er & Interactive Designer</strong>, focused on blending creativity with technology to create visually impactful and interactive web experiences. Feel free to explore my work, and don’t hesitate to reach out for collaborations or inquiries!
