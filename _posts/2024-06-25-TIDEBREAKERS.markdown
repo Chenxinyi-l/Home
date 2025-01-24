@@ -2,7 +2,7 @@
 layout: post
 title:  TIDEBREAKERS-数字艺术展览
 date:   2024-12-19 15:01:35 +0300
-image:  TIDEBREAKERSExhibition .png
+image:  TIDEBREAKERS.jpg
 tags:   Unity, Creative Design
 ---
 TIDEBREAKERS-数字艺术展览
