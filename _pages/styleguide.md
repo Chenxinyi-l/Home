@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Style Guide
-permalink: /styleguide/
+title: Other
+permalink: /Other/
 image: backgroundhead.png
 ---
 Coming soon
