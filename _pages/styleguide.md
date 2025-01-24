@@ -2,6 +2,6 @@
 layout: page
 title: Style Guide
 permalink: /styleguide/
-image: touxiang.png
+image: backgroundhead.png
 ---
 Coming soon
