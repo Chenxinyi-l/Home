@@ -1,4 +1,4 @@
-baseurl: "/Home"   # 网站在根目录
+baseurl: "/"   # 网站在根目录
 url: "https://chenxinyi-l.github.io"  # 基础 URL
 title: Xinyi CHEN
 
