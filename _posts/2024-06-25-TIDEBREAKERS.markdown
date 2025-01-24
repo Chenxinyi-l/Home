@@ -20,10 +20,4 @@ TIDEBREAKERS是一个创新的艺术展览项目，旨在通过互动游戏形�
 </div>
 
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883977097011&bvid=BV1PafpY4Ech&cid=28059044156&p=1" 
-        width="800" height="450" 
-        frameborder="0" 
-        scrolling="no" 
-        allowfullscreen="true">
-</iframe>
 
