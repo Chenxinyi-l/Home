@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Cascade: Redesigning Layer Management function of Google Slides
+title:  "Cascade: Redesigning Layer Management function of Google Slides"
 date:   2025-1-10 10:00:00 +0300
 image:  10.jpg
 tags:   UX Design
 ---
+## Cascade 
 An interactive and customizable tool for managing layered elements and their relationships.
 
 ![]({{ site.baseurl }}/images/Cascade - 1.png)
