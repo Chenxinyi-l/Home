@@ -9,4 +9,5 @@ tags:   UX Design
 An interactive and customizable tool for managing layered elements and their relationships.
 
 ![]({{ site.baseurl }}/images/Cascade - 1.png)
-*Minimalism*
+![]({{ site.baseurl }}/images/Cascade - 2.png)
+
