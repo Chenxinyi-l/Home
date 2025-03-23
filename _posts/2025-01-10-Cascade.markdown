@@ -40,6 +40,11 @@ tags:   UX Design
       width: 100%; 
     }
   }
+  iframe {
+    width: 100%;
+    height: auto;
+    max-height: 400px; /* 限制最大高度 */
+  }
 </style>
 
 <div class="video-container">
