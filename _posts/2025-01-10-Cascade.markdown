@@ -26,13 +26,13 @@ tags:   UX Design
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 5px; /* 视频间距 */
+    gap: 1px; /* 视频间距 */
   }
 
   .video-item {
     width: 30%;
     text-align: center;
-    margin-bottom: -10px;
+    margin-bottom: 1px;
   }
 
   @media (max-width: 768px) {
@@ -81,7 +81,7 @@ tags:   UX Design
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944691&bvid=BV1zVozYdEW4&cid=29036448327&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>Cascades layer mode reifies the command of reordering into a persistent, directly manipulatable interface element, Layer Blocks, ordered in the side panel.</p>
+    <p>Custom layers reify the effect of ordering into a tangible, reusable substrate that appears in the custom panel.</p>
   </div>
 
   <!-- 视频2.2 -->
@@ -90,7 +90,7 @@ tags:   UX Design
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944161&bvid=BV1zVozYdE5d&cid=29036448552&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>Layer manipulation applies the command across diverse objects such as text, images, and shapes, allowing all to be repositioned uniformly.</p>
+    <p>Customs preserve multiple relationships through their style functionality, storing both the order of elements as well as visual properties like position and colour.</p>
   </div>
 
   <!-- 视频2.3 -->
@@ -99,7 +99,7 @@ tags:   UX Design
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944639&bvid=BV1zVozYdEsb&cid=29036448561&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>Custom layers let users reapply a set of previously executed commands, duplicating the ordering of multiple objects.</p>
+    <p>A copiable custom can be used as a template to transform earlier constraints into a reusable consistent layout/layer structure across slides.</p>
   </div>
 
     <!-- 视频1.1 -->
