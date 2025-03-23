@@ -15,7 +15,7 @@ TIDEBREAKERS 是一个创意项目，于 2024 年 12 月 18 日在巴黎 ENS 大
 ![]({{site.baseurl}}/images/TIDEBREAKERSExhibition .png)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%; margin: 20px 0;">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883977097011&bvid=BV1PafpY4Ech&cid=28059044156&p=1" 
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883977097011&bvid=BV1PafpY4Ech&cid=28059044156&p=1&high_quality=1" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" 
           scrolling="no" 
