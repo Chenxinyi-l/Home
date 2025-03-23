@@ -11,7 +11,7 @@ tags:   UX Design
 ![]({{ site.baseurl }}/images/Cascade- 2.png)
 
  <!-- 总介绍 -->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%; margin: 20px 0;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%; margin: 0px 0;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114213599123594&bvid=BV126ozYMEhc&cid=29036448606&p=1&high_quality=1" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" 
@@ -43,7 +43,7 @@ tags:   UX Design
   iframe {
     width: 100%;
     height: auto;
-    max-height: 400px; /* 限制最大高度 */
+    max-height: 315px; 
   }
 </style>
 
