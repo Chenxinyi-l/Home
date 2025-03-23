@@ -25,7 +25,7 @@ tags:   UX Design
     <!-- 第一个视频 -->
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3>视频标题1</h3>
-      <iframe width="800" height="400" src="//player.bilibili.com/player.html?isOutside=true&aid=114213599123594&bvid=BV126ozYMEhc&cid=29036448606&p=1&high_quality=1"
+      <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114213599123594&bvid=BV126ozYMEhc&cid=29036448606&p=1&high_quality=1"
               frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
               gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p>这是第一个视频的描述。</p>
