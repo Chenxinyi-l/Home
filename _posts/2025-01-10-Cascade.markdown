@@ -13,7 +13,7 @@ tags:   UX Design
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%;">
-  <iframe src="https://www.bilibili.com/video/BV1RDfpYVE26?t=0" 
+  <iframe src="<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883507332158&bvid=BV1RDfpYVE26&cid=28056944934&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" 
           scrolling="no" 
