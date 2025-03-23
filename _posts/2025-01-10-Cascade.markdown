@@ -22,25 +22,22 @@ tags:   UX Design
 
 
 <style>
-  /* 设置视频容器 */
   .video-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 20px; /* 控制视频之间的间距 */
+    gap: 20px; /* 视频间距 */
   }
 
-  /* 设置每个视频单元的大小，默认情况下在大屏显示 3 个 */
   .video-item {
     width: 30%;
     text-align: center;
     margin-bottom: 20px;
   }
 
-  /* 媒体查询：当屏幕宽度小于 768px 时（手机设备），视频将变成竖着排列 */
   @media (max-width: 768px) {
     .video-item {
-      width: 100%; /* 手机上显示一列 */
+      width: 100%; 
     }
   }
 </style>
