@@ -1,9 +1,23 @@
 ---
 layout: post
-title:  Project2
-date:   2024-07-17 15:01:35 +0300
-image:  04.jpg
-tags:   Life
+title: Welcome to Jekyll!
+subtitle: A awesome static site generator.
+author: Jeffrey
+categories: jekyll
+banner:
+  video: https://vjs.zencdn.net/v/oceans.mp4
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://bit.ly/3xTmdUP
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: jekyll theme yat
+sidebar: []
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
