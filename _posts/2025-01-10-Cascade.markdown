@@ -18,3 +18,36 @@ tags:   UX Design
           allowfullscreen="true">
   </iframe>
 </div>
+
+
+<table>
+  <tr>
+    <!-- 视频1 -->
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <h3>视频标题1</h3>
+      <iframe width="300" height="169" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
+              frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+              gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>这是第一个视频的描述。</p>
+    </td>
+
+    <!-- 视频2 -->
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <h3>视频标题2</h3>
+      <iframe width="300" height="169" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
+              frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+              gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>这是第二个视频的描述。</p>
+    </td>
+
+    <!-- 视频3 -->
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <h3>视频标题3</h3>
+      <iframe width="300" height="169" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
+              frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+              gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>这是第三个视频的描述。</p>
+    </td>
+  </tr>
+</table>
+
