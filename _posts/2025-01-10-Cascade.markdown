@@ -48,31 +48,31 @@ tags:   UX Design
 </style>
 
 <div class="video-container">
-  <!-- 第一个视频 -->
+  <!-- 视频1.1 -->
   <div class="video-item">
-    <h3>视频标题1</h3>
+    <h3>Instrument-reification</h3>
     <iframe width="100%" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944438&bvid=BV1zVozYdEJT&cid=29036576982&p=1&autoplay=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>这是第一个视频的描述。</p>
+    <p>Cascades layer mode reifies the command of reordering into a persistent, directly manipulatable interface element, Layer Blocks, ordered in the side panel.</p>
   </div>
 
-  <!-- 第二个视频 -->
+  <!-- 视频1.2 -->
   <div class="video-item">
-    <h3>视频标题2</h3>
+    <h3>Instrument-polymorphism</h3>
     <iframe width="100%" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944937&bvid=BV1zVozYdEbw&cid=29036448546&p=1&autoplay=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>这是第二个视频的描述。</p>
+    <p>Layer manipulation applies the command across diverse objects such as text, images, and shapes, allowing all to be repositioned uniformly.</p>
   </div>
 
-  <!-- 第三个视频 -->
+  <!-- 视频1.3 -->
   <div class="video-item">
-    <h3>视频标题3</h3>
+    <h3>Instrument-reuse</h3>
     <iframe width="100%" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682945438&bvid=BV1zVozYdEF2&cid=29036448555&p=1&autoplay=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>这是第三个视频的描述。</p>
+    <p>Custom layers let users reapply a set of previously executed commands, duplicating the ordering of multiple objects.</p>
   </div>
 </div>
 
