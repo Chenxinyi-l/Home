@@ -12,7 +12,7 @@ Misty Forest 是一款基于 JavaFX 开发的网页游戏，玩家需要在视�
 ·交互与视野：玩家使用键盘（WASD 键）控制角色移动，鼠标左键与右键调整视野大小。当视野范围扩大到可以看到幽灵时，幽灵也会发现玩家并发起追击。
 ·胜负条件：成功收集三颗星星即获得胜利；若被幽灵多次追击导致生命值耗尽，则游戏失败。
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%;">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883507332158&bvid=BV1RDfpYVE26&cid=28056944934&p=1" 
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113883507332158&bvid=BV1RDfpYVE26&cid=28056944934&p=1&high_quality=1" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" 
           scrolling="no" 
