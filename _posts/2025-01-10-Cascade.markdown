@@ -11,7 +11,7 @@ tags:   UX Design
 ![]({{ site.baseurl }}/images/Cascade- 2.png)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%; margin: 20px 0;">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114213599123594&bvid=BV126ozYMEhc&cid=29036448606&p=1" 
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114213599123594&bvid=BV126ozYMEhc&cid=29036448606&p=1&high_quality=1" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" 
           scrolling="no" 
@@ -20,34 +20,35 @@ tags:   UX Design
 </div>
 
 
-<table>
+<table> 
   <tr>
-    <!-- 视频1 -->
+    <!-- 第一个视频 -->
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3>视频标题1</h3>
-      <iframe width="300" height="169" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
               frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
               gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p>这是第一个视频的描述。</p>
     </td>
 
-    <!-- 视频2 -->
+    <!-- 第二个视频 -->
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3>视频标题2</h3>
-      <iframe width="300" height="169" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
               frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
               gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p>这是第二个视频的描述。</p>
     </td>
 
-    <!-- 视频3 -->
+    <!-- 第三个视频 -->
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3>视频标题3</h3>
-      <iframe width="300" height="169" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/tFYL2KKpKEI" 
               frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
               gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p>这是第三个视频的描述。</p>
     </td>
   </tr>
 </table>
+
 
