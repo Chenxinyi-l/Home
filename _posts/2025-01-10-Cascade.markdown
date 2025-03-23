@@ -62,8 +62,9 @@ tags:   UX Design
  
 </style>
 
-<div class="video-container">
   <h4>INSTRUMNET</h4>
+
+<div class="video-container">
   <!-- 视频1.1 -->
   <div class="video-item">
     <h4>reification</h4>
@@ -91,7 +92,9 @@ tags:   UX Design
     <p>Custom layers let users reapply a set of previously executed commands, duplicating the ordering of multiple objects.</p>
   </div>
     </div>
-       <!-- 视频3.1 -->
+    
+ <div class="video-container">
+    <!-- 视频3.1 -->
   <div class="video-item">
     <h4>discoverability</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944353&bvid=BV1zVozYdEn4&cid=29036448653&p=1" 
@@ -118,10 +121,11 @@ tags:   UX Design
     <p>Through the shuffle feature, users explore dynamic variations in layer order and positions of objects based on mouse movement after selecting layers in the Layer panel.</p>
   </div>
   </div>
-  
+
+<h4>SUBSTRATE</h4>
+
 <div class="video-container">
     <!-- 视频2.1 -->
-   <h4>SUBSTRATEb</h4>
   <div class="video-item">
     <h4>reification</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944691&bvid=BV1zVozYdEW4&cid=29036448327&p=1" 
@@ -148,10 +152,8 @@ tags:   UX Design
     <p>A copiable custom can be used as a template to transform earlier constraints into a reusable consistent layout/layer structure across slides.</p>
   </div>
   </div>
-  <div class="video-container">
    
 
-  
   <div class="video-container">
     <!-- 视频4.1 -->
   <div class="video-item">
