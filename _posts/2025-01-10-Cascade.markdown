@@ -61,9 +61,9 @@ tags:   UX Design
 </style>
 
 <div class="video-container">
+  <h4>INSTRUMNET</h4>
   <!-- 视频1.1 -->
   <div class="video-item">
-    <div class="video-label">Instrument</div>
     <h4>reification</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944438&bvid=BV1zVozYdEJT&cid=29036576982&p=1&autoplay=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
@@ -73,7 +73,7 @@ tags:   UX Design
 
   <!-- 视频1.2 -->
   <div class="video-item">
-    <h4>Instrument-polymorphism</h4>
+    <h4>polymorphism</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944937&bvid=BV1zVozYdEbw&cid=29036448546&p=1&autoplay=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -82,19 +82,46 @@ tags:   UX Design
 
   <!-- 视频1.3 -->
   <div class="video-item">
-    <h4>Instrument-reuse</h4>
+    <h4>reuse</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682945438&bvid=BV1zVozYdEF2&cid=29036448555&p=1&autoplay=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Custom layers let users reapply a set of previously executed commands, duplicating the ordering of multiple objects.</p>
   </div>
     </div>
-    
-<div class="video-container">
- 
-    <!-- 视频2.1 -->
+       <!-- 视频3.1 -->
   <div class="video-item">
-    <h4>Substrate-reification</h4>
+    <h4>discoverability</h4>
+    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944353&bvid=BV1zVozYdEn4&cid=29036448653&p=1" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+            gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>After inactivity, layers in the zoom tool and layer panel bounce slightly to indicate they can be reordered.</p>
+  </div>
+
+  <!-- 视频3.2 -->
+  <div class="video-item">
+    <h4>appropriability</h4>
+    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682943578&bvid=BV1zVozYdEka&cid=29036448660&p=1" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+            gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>A custom can be applied to selected layers and tuned in situ using the zoom layer tool, which enables users to focus on and reorder only relevant layers close to a point.</p>
+  </div>
+
+  <!-- 视频3.3 -->
+  <div class="video-item">
+    <h4>expressivity</h4>
+    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682945569&bvid=BV1zVozYdEME&cid=29036577400&p=1"
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+            gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Through the shuffle feature, users explore dynamic variations in layer order and positions of objects based on mouse movement after selecting layers in the Layer panel.</p>
+  </div>
+  </div>
+  
+<div class="video-container">
+    <!-- 视频2.1 -->
+   <h4>SUBSTRATEb</h4>
+  <div class="video-item">
+    <h4>reification</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944691&bvid=BV1zVozYdEW4&cid=29036448327&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -103,7 +130,7 @@ tags:   UX Design
 
   <!-- 视频2.2 -->
   <div class="video-item">
-    <h4>Substrate-polymorphism</h4>
+    <h4>polymorphism</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944161&bvid=BV1zVozYdE5d&cid=29036448552&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -112,7 +139,7 @@ tags:   UX Design
 
   <!-- 视频2.3 -->
   <div class="video-item">
-    <h4>Substrate-reuse</h4>
+    <h4>reuse</h4>
     <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944639&bvid=BV1zVozYdEsb&cid=29036448561&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -121,39 +148,13 @@ tags:   UX Design
   </div>
   <div class="video-container">
    
-    <!-- 视频3.1 -->
-  <div class="video-item">
-    <h4>Instrument-discoverability</h4>
-    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944438&bvid=BV1zVozYdEJT&cid=29036576982&p=1&autoplay=1" 
-            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-            gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>After inactivity, layers in the zoom tool and layer panel bounce slightly to indicate they can be reordered.</p>
-  </div>
 
-  <!-- 视频3.2 -->
-  <div class="video-item">
-    <h4>Instrument-appropriability</h4>
-    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944937&bvid=BV1zVozYdEbw&cid=29036448546&p=1&autoplay=1" 
-            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-            gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>A custom can be applied to selected layers and tuned in situ using the zoom layer tool, which enables users to focus on and reorder only relevant layers close to a point.</p>
-  </div>
-
-  <!-- 视频3.3 -->
-  <div class="video-item">
-    <h4>Instrument-expressivity</h4>
-    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682945438&bvid=BV1zVozYdEF2&cid=29036448555&p=1&autoplay=1" 
-            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-            gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>Through the shuffle feature, users explore dynamic variations in layer order and positions of objects based on mouse movement after selecting layers in the Layer panel.</p>
-  </div>
-  </div>
   
   <div class="video-container">
     <!-- 视频4.1 -->
   <div class="video-item">
-    <h4>Substrate-discoverability</h4>
-    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944438&bvid=BV1zVozYdEJT&cid=29036576982&p=1&autoplay=1" 
+    <h4>discoverability</h4>
+    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944832&bvid=BV1zVozYdEby&cid=29036448577&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Hovering over a Custom previews the applied effect, applying it on click and reverting if not confirmed.</p>
@@ -161,8 +162,8 @@ tags:   UX Design
 
   <!-- 视频4.2 -->
   <div class="video-item">
-    <h4>Substrate-appropriability</h4>
-    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944937&bvid=BV1zVozYdEbw&cid=29036448546&p=1&autoplay=1" 
+    <h4>appropriability</h4>
+    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682944816&bvid=BV1zVozYdEhT&cid=29036448496&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Locking layers tweaks how constraints are applied, allowing only unlocked elements to be affected by a Custom.</p>
@@ -170,8 +171,8 @@ tags:   UX Design
 
   <!-- 视频4.3 -->
   <div class="video-item">
-    <h4>Substrate-expressivity</h4>
-    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213682945438&bvid=BV1zVozYdEF2&cid=29036448555&p=1&autoplay=1" 
+    <h4>expressivity</h4>
+    <iframe width="100%" height="300" src="//player.bilibili.com/player.html?isOutside=true&aid=114213599059192&bvid=BV1x6ozYMEkB&cid=29036448503&p=1" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
             gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>The final arrangement captures the user’s expressive input and can be saved as a Custom, preserving the unique layering style for future use.</p>
