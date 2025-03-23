@@ -6,12 +6,6 @@ image:  Cascades_cover.png
 tags:   UX Design
 ---
 ## Cascade 
-
-![]({{ site.baseurl }}/images/Cascade- 1.png)
-![]({{ site.baseurl }}/images/Cascade- 2.png)
-![]({{ site.baseurl }}/images/Cascade- 3.png)
-![]({{ site.baseurl }}/images/Cascade- 4.png)
-
  <!-- 总介绍 -->
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%; margin: 0px 0;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114213599123594&bvid=BV126ozYMEhc&cid=29036448606&p=1&high_quality=1" 
@@ -21,6 +15,12 @@ tags:   UX Design
           allowfullscreen="true">
   </iframe>
 </div>
+![]({{ site.baseurl }}/images/Cascade- 1.png)
+![]({{ site.baseurl }}/images/Cascade- 2.png)
+![]({{ site.baseurl }}/images/Cascade- 3.png)
+![]({{ site.baseurl }}/images/Cascade- 4.png)
+
+
 
 
 <style>
