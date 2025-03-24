@@ -9,5 +9,4 @@ I have worked on various projects across industries, from sleek portfolios to dy
 
 ***
 
-![]({{site.baseurl}}/images/Experience.png)
-![]({{site.baseurl}}/images/skills.png)
+![]({{site.baseurl}}/images/About.png)
