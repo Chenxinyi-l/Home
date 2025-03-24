@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 image: backgroundhead.png
 ---
-***About Me
+  <h1>About Me</h1>
 
 I am an HCI professional with a strong background in product thinking, technology, and design, focused on providing innovative solutions and exploring the boundaries of art and creativity. I have a deep understanding of human-computer interaction theory and UX design principles, with a strong emphasis on usability and accessibility, and am committed to creating efficient and seamless user experiences.
 
