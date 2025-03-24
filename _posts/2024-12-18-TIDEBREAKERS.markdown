@@ -23,5 +23,6 @@ Visitors can access the web game by scanning the QR code at the exhibition and p
   </iframe>
 </div>
 
+![]({{site.baseurl}}/images/TIDEBREAKERS-1.png)
 
 
