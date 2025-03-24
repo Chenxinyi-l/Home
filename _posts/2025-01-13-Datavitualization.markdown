@@ -9,4 +9,4 @@ tags:   DataVitualization; Data Analysis； UI animation
 ![]({{ site.baseurl }}/images/Datavitualization- 2.png)
 ![]({{ site.baseurl }}/images/Datavitualization- 3.png)
 ![]({{ site.baseurl }}/images/Datavitualization- 4.png)
-<button onclick="window.location.href='https://khrystynaaa.github.io/GenderGapVisualization/';" style="padding:10px 20px;font-size:16px;">跳转到网页X</button>
+<button onclick="window.location.href='https://khrystynaaa.github.io/GenderGapVisualization/';" style="padding:10px 20px;font-size:16px;">Click to see the Web</button>
