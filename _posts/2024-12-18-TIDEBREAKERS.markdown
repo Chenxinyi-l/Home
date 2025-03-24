@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TIDEBREAKERS-数字互动艺术游戏
+title:  TIDEBREAKERS-Digital Interactive Art Game
 date:   2024-12-19 15:01:35 +0300
 image:  TIDEBREAKERS.jpg
 tags:   Unity, Creative Design
