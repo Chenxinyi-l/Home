@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   Misty Forest: Interactive Maze Web Game
+title:   Misty Forest-Interactive Maze Web Game
 date:   2024-10-16 15:01:35 +0300
 image:  maze_background.png
 tags:  Web
