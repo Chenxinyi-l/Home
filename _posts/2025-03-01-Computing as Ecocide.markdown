@@ -6,5 +6,5 @@ image:  Computing as Ecocide_cover.jpg
 tags:   Poster;
 ---
 Research Poster Presentation：
-![]({{ site.baseurl }}/images/ Computing as Ecocide_cover.jpg) 
+![]({{ site.baseurl }}images/Computing as Ecocide_cover.jpg) 
 ![]({{ site.baseurl }}/images/Computing as Ecocide.jpg) 
