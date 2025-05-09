@@ -5,16 +5,10 @@ permalink: /about/
 image: backgroundhead.png
 ---
   <h1>About Me</h1>
+  
+Hi! I'm a master's student in the Human-Computer Interaction (HCI) program at Université Paris-Saclay. As a passionate HCIer, I'm deeply interested in the intersection of technology, design, and human behavior. My academic journey has been driven by a curiosity about how interactive systems can be crafted to better serve people — not only in terms of functionality but also in how they feel and connect.
 
-I am an HCI professional with a strong background in product thinking, technology, and design, focused on providing innovative solutions and exploring the boundaries of art and creativity. I have a deep understanding of human-computer interaction theory and UX design principles, with a strong emphasis on usability and accessibility, and am committed to creating efficient and seamless user experiences.
-
-In my work, I excel at extracting core issues from data analysis and user feedback, translating them into actionable design solutions that optimize product interaction and user experience, ultimately enhancing user engagement and satisfaction.
-
-My goal is to become an efficient and innovative HCI design expert, leveraging a combination of product thinking, technical expertise, and design skills to drive cross-disciplinary integration in product design. I am dedicated to providing outstanding user experience solutions for organizations, helping products meet user needs while enhancing business value.
-
-In the future, I hope to dive deeper into user research and data analysis, applying emerging technologies such as AIGC to design, and exploring their impact on user experience. My ultimate aim is to create meaningful, sustainable innovations for more companies and teams, blending technology and art in products to drive the digital progress of society.
-
-I believe that the power of design lies not only in aesthetics but also in how it truly serves humanity, optimizing every detail to improve users' quality of life. I look forward to continuing this journey of innovation and practice, consistently exploring, progressing, and growing with my team to create more impactful work.
+Guided by the principle of seeking truth from facts, my design practice is rooted in addressing real-world challenges and enabling individuals to pursue more ideal modes of living. Whether mitigating everyday difficulties or contributing to broader societal well-being, I view each design decision as a deliberate act—an informed vote of confidence in the possibility of a more equitable and thoughtful world.
 
 
 ![]({{site.baseurl}}/images/About.png)
