@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Visualization: How Does the Gender Gap Vary Across STEM Majors?"
-date:   2025-02-19 15:01:35 +0300
+date:   2025-01-09 15:01:35 +0300
 image:  Datavitualization_cover.png
 tags:   DataVitualization; Data Analysis； UI animation
 ---
