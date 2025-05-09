@@ -7,5 +7,11 @@ tags:   XR;
 ---
 TargetX is an AR-based virtual shooting simulation training program developed for the Microsoft HoloLens 2 platform. It use voice commands and hand gesture recognition, to create an immersive and intuitive training environment. Users can interact with virtual elements through natural hand movements and voice inputs, enhancing the realism and effectiveness of the training
 
-![]({{ site.baseurl }}/images/TargetX_cover..png) 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%;">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114478846909427&bvid=BV17aVSzQE8Q&cid=29877342073&p=1" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0" 
+          scrolling="no" 
+          allowfullscreen="true">
+  </iframe>
+</div>
