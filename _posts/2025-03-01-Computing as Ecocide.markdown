@@ -6,5 +6,5 @@ image:  Computing_cover.jpg
 tags:   Poster;
 ---
 Research Poster Presentation：
-![]({{ site.baseurl }}/images/Computing as Ecocide_cover.png) 
+![]({{ site.baseurl }}/images/Computing_cover.jpg) 
 ![]({{ site.baseurl }}/images/Computing as Ecocide.jpg) 
