@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: backgroundhead.png
+image:
 ---
   <h1>About Me</h1>
   
