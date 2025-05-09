@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “TargetX: AR-Based Virtual Shooting Simulation Training”
+title:  "TargetX: AR-Based Virtual Shooting Simulation Training"
 date:   2025-02-01 15:01:35 +0300
 image:  TargetX_cover..png
 tags:   XR;
